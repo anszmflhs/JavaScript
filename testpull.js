@@ -1,1 +1,2 @@
-console.log("Mencoba Pull Github")
+let test = "Message to Github"
+console.log("Test")
